@@ -1,0 +1,22 @@
+img {
+    max-width: 100%;
+}
+.journal {
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 1.5rem;
+}
+body {
+    margin: center;
+    padding: 1.5rem;
+    border: 25px;
+}.story {
+    padding: 1px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+.want { 
+    padding: 10px;
+    border-left: 3px solid grey;
+}
